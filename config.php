@@ -18,9 +18,9 @@
 
 class Config
 {
-    const ACCOUNT_NAME = '';
-    const ACCOUNT_KEY = '';
-    const IS_EMULATED = true;
+    const ACCOUNT_NAME = 'valdawaf';
+    const ACCOUNT_KEY = '7jz6sJPKpkSc8ojcvzscMIXAN1yBfzvsAO5ue0wwuWDVfIVQ0cLcqB6nYuczknHnj8xkW7B/n8mOOxblOBLX0g==';
+    const IS_EMULATED = false;
 
     public static function getConnectionString()
     {
